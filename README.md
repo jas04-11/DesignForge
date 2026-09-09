@@ -276,5 +276,4 @@ This project is developed for educational and learning purposes.
 ## Author
 
 **Jasleen Kaur**
-
 DesignForge — LLD Practice Platform
